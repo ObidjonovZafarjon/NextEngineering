@@ -1,0 +1,1608 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.34f1 (5ab2d9ed9190) revision 5944025'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'ru' Physical Memory: 32472 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.34f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Works/Unity/Welding/Welding/Welding PC
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64607
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: D:/Works/Unity/Welding/Welding/Welding PC
+D:/Works/Unity/Welding/Welding/Welding PC
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [60688]  Target information:
+
+Player connection [60688]  * "[IP] 192.168.1.109 [Port] 0 [Flags] 2 [Guid] 2169044581 [EditorId] 2169044581 [Version] 1048832 [Id] WindowsEditor(7,Coder) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [60688] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [60688] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 6.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.34f1 (5ab2d9ed9190)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Works/Unity/Welding/Welding/Welding PC/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   32.0.15.7283
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56136
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.004110 seconds.
+- Loaded All Assemblies, in  0.438 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 370 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.778 seconds
+Domain Reload Profiling: 1215ms
+	BeginReloadAssembly (146ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (182ms)
+		LoadAssemblies (145ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (177ms)
+			TypeCache.Refresh (175ms)
+				TypeCache.ScanAssembly (160ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (779ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (726ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (473ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (57ms)
+			ProcessInitializeOnLoadAttributes (129ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.957 seconds
+Refreshing native plugins compatible for Editor in 3.72 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 4.20 ms, found 4 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.878 seconds
+Domain Reload Profiling: 1832ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (668ms)
+		LoadAssemblies (455ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (322ms)
+			TypeCache.Refresh (229ms)
+				TypeCache.ScanAssembly (202ms)
+			BuildScriptInfoCaches (76ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (878ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (667ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (451ms)
+			ProcessInitializeOnLoadMethodAttributes (89ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 6.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 218 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6361 unused Assets / (5.3 MB). Loaded Objects now: 7033.
+Memory consumption went from 179.5 MB to 174.2 MB.
+Total: 17.702100 ms (FindLiveObjects: 1.926200 ms CreateObjectMapping: 1.297200 ms MarkObjects: 9.299200 ms  DeleteObjects: 5.172600 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.83 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6317 unused Assets / (5.1 MB). Loaded Objects now: 7034.
+Memory consumption went from 143.7 MB to 138.6 MB.
+Total: 16.016500 ms (FindLiveObjects: 1.272700 ms CreateObjectMapping: 1.100200 ms MarkObjects: 9.532400 ms  DeleteObjects: 4.108100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 645252.872938 seconds.
+  path: Assets/Scripts/LeaderboardManager.cs
+  artifactKey: Guid(722f09e8c668c78498a48f72519468a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LeaderboardManager.cs using Guid(722f09e8c668c78498a48f72519468a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f7434c45880eec366c78fa3090b6e0e4') in 0.0187086 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.767 seconds
+Refreshing native plugins compatible for Editor in 3.29 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.845 seconds
+Domain Reload Profiling: 1614ms
+	BeginReloadAssembly (207ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (53ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (483ms)
+		LoadAssemblies (377ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (211ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (183ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (845ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (617ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (116ms)
+			ProcessInitializeOnLoadAttributes (420ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 7.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.0 MB). Loaded Objects now: 7051.
+Memory consumption went from 159.3 MB to 154.2 MB.
+Total: 15.773000 ms (FindLiveObjects: 0.918200 ms CreateObjectMapping: 1.223000 ms MarkObjects: 9.176700 ms  DeleteObjects: 4.452200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.809 seconds
+Refreshing native plugins compatible for Editor in 3.57 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.821 seconds
+Domain Reload Profiling: 1633ms
+	BeginReloadAssembly (215ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (55ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (514ms)
+		LoadAssemblies (401ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (223ms)
+			TypeCache.Refresh (15ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (191ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (822ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (595ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (109ms)
+			ProcessInitializeOnLoadAttributes (402ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 6.39 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.4 MB). Loaded Objects now: 7053.
+Memory consumption went from 157.6 MB to 152.3 MB.
+Total: 16.746100 ms (FindLiveObjects: 1.168500 ms CreateObjectMapping: 1.443500 ms MarkObjects: 8.399200 ms  DeleteObjects: 5.731800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 63.032618 seconds.
+  path: Assets/Scripts/LeaderboardManager.cs
+  artifactKey: Guid(722f09e8c668c78498a48f72519468a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LeaderboardManager.cs using Guid(722f09e8c668c78498a48f72519468a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b148b0744c60a863c681e7fc09d65d2') in 0.0312972 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.824 seconds
+Refreshing native plugins compatible for Editor in 3.30 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.844 seconds
+Domain Reload Profiling: 1670ms
+	BeginReloadAssembly (214ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (55ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (530ms)
+		LoadAssemblies (413ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (226ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (200ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (844ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (623ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (102ms)
+			ProcessInitializeOnLoadAttributes (439ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 7.28 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.6 MB). Loaded Objects now: 7055.
+Memory consumption went from 157.6 MB to 152.0 MB.
+Total: 17.870500 ms (FindLiveObjects: 1.064300 ms CreateObjectMapping: 1.269300 ms MarkObjects: 9.276500 ms  DeleteObjects: 6.257800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.820 seconds
+Refreshing native plugins compatible for Editor in 4.13 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.852 seconds
+Domain Reload Profiling: 1674ms
+	BeginReloadAssembly (210ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (528ms)
+		LoadAssemblies (409ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (227ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (197ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (853ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (624ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (112ms)
+			ProcessInitializeOnLoadAttributes (422ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 11.18 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.3 MB). Loaded Objects now: 7057.
+Memory consumption went from 157.6 MB to 152.3 MB.
+Total: 17.295100 ms (FindLiveObjects: 1.384900 ms CreateObjectMapping: 1.271100 ms MarkObjects: 8.588300 ms  DeleteObjects: 6.047800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.835 seconds
+Refreshing native plugins compatible for Editor in 3.53 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.838 seconds
+Domain Reload Profiling: 1676ms
+	BeginReloadAssembly (221ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (55ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (535ms)
+		LoadAssemblies (422ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (225ms)
+			TypeCache.Refresh (15ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (194ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (839ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (612ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (427ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 6.21 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.3 MB). Loaded Objects now: 7059.
+Memory consumption went from 157.6 MB to 152.3 MB.
+Total: 16.377200 ms (FindLiveObjects: 0.953600 ms CreateObjectMapping: 1.128800 ms MarkObjects: 8.701100 ms  DeleteObjects: 5.590600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 762.774426 seconds.
+  path: Assets/Photo/icons8_Password_Key_400px.png
+  artifactKey: Guid(885b21838b0565840a98aec91f9f8de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photo/icons8_Password_Key_400px.png using Guid(885b21838b0565840a98aec91f9f8de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '57d0a752d5af05d0163967c54407f015') in 0.1366934 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.250045 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4430c5a4c602cfab400680b517309e4b') in 0.578781 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.857 seconds
+Refreshing native plugins compatible for Editor in 3.29 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.820 seconds
+Domain Reload Profiling: 1680ms
+	BeginReloadAssembly (253ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (25ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (74ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (523ms)
+		LoadAssemblies (402ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (231ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (197ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (821ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (570ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (385ms)
+			ProcessInitializeOnLoadMethodAttributes (57ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 6.36 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (4.9 MB). Loaded Objects now: 7129.
+Memory consumption went from 168.1 MB to 163.3 MB.
+Total: 13.771300 ms (FindLiveObjects: 0.897400 ms CreateObjectMapping: 1.070000 ms MarkObjects: 7.250700 ms  DeleteObjects: 4.549500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.851 seconds
+Refreshing native plugins compatible for Editor in 4.00 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.881 seconds
+Domain Reload Profiling: 1734ms
+	BeginReloadAssembly (218ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (59ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (552ms)
+		LoadAssemblies (422ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (234ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (203ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (881ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (651ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (107ms)
+			ProcessInitializeOnLoadAttributes (453ms)
+			ProcessInitializeOnLoadMethodAttributes (69ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 6.83 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.3 MB). Loaded Objects now: 7131.
+Memory consumption went from 168.0 MB to 162.7 MB.
+Total: 16.767100 ms (FindLiveObjects: 1.020300 ms CreateObjectMapping: 1.407400 ms MarkObjects: 8.582200 ms  DeleteObjects: 5.753300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.816 seconds
+Refreshing native plugins compatible for Editor in 4.63 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.774 seconds
+Domain Reload Profiling: 1593ms
+	BeginReloadAssembly (212ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (51ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (521ms)
+		LoadAssemblies (407ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (223ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (198ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (775ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (551ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (101ms)
+			ProcessInitializeOnLoadAttributes (367ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 8.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.1 MB). Loaded Objects now: 7133.
+Memory consumption went from 168.0 MB to 162.9 MB.
+Total: 16.966700 ms (FindLiveObjects: 1.013500 ms CreateObjectMapping: 1.280900 ms MarkObjects: 8.937800 ms  DeleteObjects: 5.732100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.805 seconds
+Refreshing native plugins compatible for Editor in 4.96 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.828 seconds
+Domain Reload Profiling: 1636ms
+	BeginReloadAssembly (206ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (519ms)
+		LoadAssemblies (402ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (221ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (195ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (829ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (601ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (411ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 7.67 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.4 MB). Loaded Objects now: 7135.
+Memory consumption went from 168.0 MB to 162.6 MB.
+Total: 17.611900 ms (FindLiveObjects: 1.538300 ms CreateObjectMapping: 1.925200 ms MarkObjects: 8.241900 ms  DeleteObjects: 5.903200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.798 seconds
+Refreshing native plugins compatible for Editor in 4.24 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.790 seconds
+Domain Reload Profiling: 1592ms
+	BeginReloadAssembly (205ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (514ms)
+		LoadAssemblies (397ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (223ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (197ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (791ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (563ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (101ms)
+			ProcessInitializeOnLoadAttributes (378ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 7.47 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.2 MB). Loaded Objects now: 7137.
+Memory consumption went from 168.0 MB to 162.8 MB.
+Total: 16.879000 ms (FindLiveObjects: 1.406000 ms CreateObjectMapping: 1.259400 ms MarkObjects: 8.214000 ms  DeleteObjects: 5.996800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.813 seconds
+Refreshing native plugins compatible for Editor in 3.53 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.804 seconds
+Domain Reload Profiling: 1620ms
+	BeginReloadAssembly (216ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (517ms)
+		LoadAssemblies (400ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (226ms)
+			TypeCache.Refresh (15ms)
+				TypeCache.ScanAssembly (4ms)
+			BuildScriptInfoCaches (194ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (805ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (581ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (398ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 7.01 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.1 MB). Loaded Objects now: 7139.
+Memory consumption went from 168.0 MB to 162.9 MB.
+Total: 15.921500 ms (FindLiveObjects: 0.967800 ms CreateObjectMapping: 1.186700 ms MarkObjects: 8.751500 ms  DeleteObjects: 5.010700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.814 seconds
+Refreshing native plugins compatible for Editor in 3.86 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.823 seconds
+Domain Reload Profiling: 1640ms
+	BeginReloadAssembly (207ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (53ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (525ms)
+		LoadAssemblies (402ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (225ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (199ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (824ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (586ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (390ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 7.95 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.0 MB). Loaded Objects now: 7141.
+Memory consumption went from 168.0 MB to 163.0 MB.
+Total: 16.100100 ms (FindLiveObjects: 1.217700 ms CreateObjectMapping: 1.210500 ms MarkObjects: 8.490500 ms  DeleteObjects: 5.178100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1262.600691 seconds.
+  path: Assets/Resources/AnswerCard.prefab
+  artifactKey: Guid(1819cbe5ff7db26459ef5ad93202beff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/AnswerCard.prefab using Guid(1819cbe5ff7db26459ef5ad93202beff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80a51d0e04beddd0515a5c0aff71167f') in 0.1699798 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.457495 seconds.
+  path: Assets/Resources/AnswerCard.prefab
+  artifactKey: Guid(1819cbe5ff7db26459ef5ad93202beff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/AnswerCard.prefab using Guid(1819cbe5ff7db26459ef5ad93202beff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '157296698226c11ead8b6b0bb9a3145b') in 0.0215467 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.998707 seconds.
+  path: Assets/Resources/AnswerCard.prefab
+  artifactKey: Guid(1819cbe5ff7db26459ef5ad93202beff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/AnswerCard.prefab using Guid(1819cbe5ff7db26459ef5ad93202beff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '07a7974b7bd4dbb946c801d28170db74') in 0.022437 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.801423 seconds.
+  path: Assets/Resources/AnswerCard.prefab
+  artifactKey: Guid(1819cbe5ff7db26459ef5ad93202beff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/AnswerCard.prefab using Guid(1819cbe5ff7db26459ef5ad93202beff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc2d77051f5e8785c0d7641f379d5614') in 0.0237274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.845 seconds
+Refreshing native plugins compatible for Editor in 3.65 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.801 seconds
+Domain Reload Profiling: 1648ms
+	BeginReloadAssembly (235ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (68ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (528ms)
+		LoadAssemblies (407ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (232ms)
+			TypeCache.Refresh (16ms)
+				TypeCache.ScanAssembly (4ms)
+			BuildScriptInfoCaches (199ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (801ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (571ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (110ms)
+			ProcessInitializeOnLoadAttributes (380ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 6.27 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6359 unused Assets / (4.8 MB). Loaded Objects now: 7143.
+Memory consumption went from 168.1 MB to 163.2 MB.
+Total: 13.502000 ms (FindLiveObjects: 0.898700 ms CreateObjectMapping: 1.261200 ms MarkObjects: 7.166200 ms  DeleteObjects: 4.172700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.790 seconds
+Refreshing native plugins compatible for Editor in 3.20 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.826 seconds
+Domain Reload Profiling: 1619ms
+	BeginReloadAssembly (204ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (53ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (507ms)
+		LoadAssemblies (387ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (221ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (194ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (827ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (591ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (399ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 6.79 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.0 MB). Loaded Objects now: 7145.
+Memory consumption went from 168.1 MB to 163.1 MB.
+Total: 14.699700 ms (FindLiveObjects: 1.094400 ms CreateObjectMapping: 1.186900 ms MarkObjects: 7.842300 ms  DeleteObjects: 4.572900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.796 seconds
+Refreshing native plugins compatible for Editor in 4.44 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.804 seconds
+Domain Reload Profiling: 1603ms
+	BeginReloadAssembly (207ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (510ms)
+		LoadAssemblies (391ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (226ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (199ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (805ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (578ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (380ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 7.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.1 MB). Loaded Objects now: 7147.
+Memory consumption went from 168.1 MB to 163.0 MB.
+Total: 16.026200 ms (FindLiveObjects: 0.964200 ms CreateObjectMapping: 1.452700 ms MarkObjects: 8.591500 ms  DeleteObjects: 5.014800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.831 seconds
+Refreshing native plugins compatible for Editor in 4.76 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.835 seconds
+Domain Reload Profiling: 1668ms
+	BeginReloadAssembly (212ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (540ms)
+		LoadAssemblies (410ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (232ms)
+			TypeCache.Refresh (15ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (199ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (836ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (610ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (424ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 8.76 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (4.9 MB). Loaded Objects now: 7149.
+Memory consumption went from 168.1 MB to 163.2 MB.
+Total: 13.698100 ms (FindLiveObjects: 1.033200 ms CreateObjectMapping: 1.427100 ms MarkObjects: 7.283000 ms  DeleteObjects: 3.952400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.793 seconds
+Refreshing native plugins compatible for Editor in 4.27 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.793 seconds
+Domain Reload Profiling: 1589ms
+	BeginReloadAssembly (198ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (514ms)
+		LoadAssemblies (391ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (223ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (196ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (794ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (571ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (385ms)
+			ProcessInitializeOnLoadMethodAttributes (66ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 6.93 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (4.9 MB). Loaded Objects now: 7151.
+Memory consumption went from 168.1 MB to 163.2 MB.
+Total: 14.809200 ms (FindLiveObjects: 1.183900 ms CreateObjectMapping: 1.091800 ms MarkObjects: 7.465300 ms  DeleteObjects: 5.062600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.808 seconds
+Refreshing native plugins compatible for Editor in 3.78 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.789 seconds
+Domain Reload Profiling: 1600ms
+	BeginReloadAssembly (206ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (521ms)
+		LoadAssemblies (392ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (232ms)
+			TypeCache.Refresh (17ms)
+				TypeCache.ScanAssembly (4ms)
+			BuildScriptInfoCaches (198ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (790ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (569ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (385ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 6.48 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.3 MB). Loaded Objects now: 7153.
+Memory consumption went from 168.1 MB to 162.8 MB.
+Total: 15.651200 ms (FindLiveObjects: 1.078200 ms CreateObjectMapping: 1.463800 ms MarkObjects: 7.820900 ms  DeleteObjects: 5.284100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.826 seconds
+Refreshing native plugins compatible for Editor in 3.86 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.860 seconds
+Domain Reload Profiling: 1689ms
+	BeginReloadAssembly (206ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (51ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (541ms)
+		LoadAssemblies (404ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (239ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (211ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (861ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (623ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (108ms)
+			ProcessInitializeOnLoadAttributes (415ms)
+			ProcessInitializeOnLoadMethodAttributes (78ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 6.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (5.2 MB). Loaded Objects now: 7155.
+Memory consumption went from 168.1 MB to 162.9 MB.
+Total: 16.875500 ms (FindLiveObjects: 1.018100 ms CreateObjectMapping: 1.438100 ms MarkObjects: 8.523200 ms  DeleteObjects: 5.894200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 913.193768 seconds.
+  path: Assets/Photo/—Pngtree—futuristic welding helmet with sparks_20925708.png
+  artifactKey: Guid(c69e88c639a21ce4599b8ed6c2818e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photo/—Pngtree—futuristic welding helmet with sparks_20925708.png using Guid(c69e88c639a21ce4599b8ed6c2818e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '987acc7bdc1c9937df7687d31959c59f') in 0.1859932 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 225.283549 seconds.
+  path: Assets/Photo/Splash.jpg
+  artifactKey: Guid(89082fb0fc5030046bf2b1a059eed76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photo/Splash.jpg using Guid(89082fb0fc5030046bf2b1a059eed76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '197014cae8ac7da38b10446f3ee2e941') in 0.0302076 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.247152 seconds.
+  path: Assets/Photo/Splash.jpg
+  artifactKey: Guid(89082fb0fc5030046bf2b1a059eed76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photo/Splash.jpg using Guid(89082fb0fc5030046bf2b1a059eed76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fa2a27e354bfc02773c411e883567518') in 0.0279192 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.530795 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Device/Headphones.png
+  artifactKey: Guid(b72c64868a74dd04e9b605a346744fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Device/Headphones.png using Guid(b72c64868a74dd04e9b605a346744fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '05e273054619471eaf9e88f421dd917a') in 0.0420479 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Heart Pop.png
+  artifactKey: Guid(1e1877c27e51cc24395620020cc09681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Heart Pop.png using Guid(1e1877c27e51cc24395620020cc09681) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb4d382943348a0d25c9f4abba920d28') in 0.0268557 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Home.png
+  artifactKey: Guid(b7414fdd0411d364ab74c963a05b62d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Home.png using Guid(b7414fdd0411d364ab74c963a05b62d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e98a69b15465ebf6f6371e2b4f58704') in 0.028364 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Help Filled.png
+  artifactKey: Guid(ba19c3c8a5cc12841a5296ee7c2a1c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Help Filled.png using Guid(ba19c3c8a5cc12841a5296ee7c2a1c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eae4c8be8561a79b179649f2f9e4fb6b') in 0.0278581 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Home Filled.png
+  artifactKey: Guid(0abd1944fb0049e49a5f05373c555983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Home Filled.png using Guid(0abd1944fb0049e49a5f05373c555983) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99a52b210f4c0258ee08108ae930e6eb') in 0.0259735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Navigation/Help.png
+  artifactKey: Guid(49702278c78c41648bcf38cd04605d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Navigation/Help.png using Guid(49702278c78c41648bcf38cd04605d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '36bacda6dac707fdab9d43a2c4f6f81e') in 0.0323156 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Heart.png
+  artifactKey: Guid(bd190f341a63ae7449752d80a3a8ef73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Heart.png using Guid(bd190f341a63ae7449752d80a3a8ef73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c4b2ceef2baf2e6ea9fc8cd0a2e5ee4e') in 0.0235989 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Common/Heart Filled.png
+  artifactKey: Guid(a40e131b61d22ba42b2955962e636ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Common/Heart Filled.png using Guid(a40e131b61d22ba42b2955962e636ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '734897c7266bab5f6687babe1e8c5bf7') in 0.0283508 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.633632 seconds.
+  path: Assets/Modern UI Pack/Textures/Shadow/Horizontal Shadow (High).png
+  artifactKey: Guid(103ba97838400454ab58fa34c508cbbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Shadow/Horizontal Shadow (High).png using Guid(103ba97838400454ab58fa34c508cbbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '63e76949df6f0e0e378a31bf9a6d9e15') in 0.034776 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.751429 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Device/Lightbulb Filled.png
+  artifactKey: Guid(2f3cd6b896e7d9d4f82a99662da14c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Device/Lightbulb Filled.png using Guid(2f3cd6b896e7d9d4f82a99662da14c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'be0e96880a41da541a54e374755b4dbb') in 0.0404431 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052930 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Lock Bottom.png
+  artifactKey: Guid(b891d65ba4d76704b8d265e52bacdb6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Others/Animation Icon Stuff/Lock Bottom.png using Guid(b891d65ba4d76704b8d265e52bacdb6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9cd66f4b50aead000aad607e5aee8c1') in 0.0276261 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Map/Map Filled.png
+  artifactKey: Guid(4caf56eb275238349b0e7ed2db462f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Map/Map Filled.png using Guid(4caf56eb275238349b0e7ed2db462f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2011bb29a53b9b07c8de784168ea2d77') in 0.0254286 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031262 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Device/Monitor Filled.png
+  artifactKey: Guid(f74e44b59b87aa04ab56788493e3ad3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Device/Monitor Filled.png using Guid(f74e44b59b87aa04ab56788493e3ad3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '50a56efeb80b7b8450f2a9cfad0cf8a6') in 0.0260825 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Media/Music.png
+  artifactKey: Guid(3881a589da314734096a8ebe09c4e236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Media/Music.png using Guid(3881a589da314734096a8ebe09c4e236) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '273416e169807cae4137b07627f039fb') in 0.0291183 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070372 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/UI Elements/Progress Bar (Filled).png
+  artifactKey: Guid(4f390e5c78ac1b648bcf79697f1c5d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/UI Elements/Progress Bar (Filled).png using Guid(4f390e5c78ac1b648bcf79697f1c5d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a325c0df231cf79b77f264ed5c2c9be0') in 0.0287396 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.310479 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Filled 128px.png
+  artifactKey: Guid(d25e2ce15dd1c67438e4b70f404fb197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Filled 128px.png using Guid(d25e2ce15dd1c67438e4b70f404fb197) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2b9eddb2bd6aff90b9d355e8d76614fa') in 0.0264801 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.816891 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Outline 128px - 4x.png
+  artifactKey: Guid(b8c2bca7139eb5143aeea1c1beba6bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Outline 128px - 4x.png using Guid(b8c2bca7139eb5143aeea1c1beba6bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70488faa19b232ddcfd2e5d3e2a19983') in 0.0268304 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Outline 128px - 8x.png
+  artifactKey: Guid(0af8bcc207a9f5442861d91a2975cc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Outline 128px - 8x.png using Guid(0af8bcc207a9f5442861d91a2975cc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21c7ae585784c002e4383300e128a4f8') in 0.0269042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010872 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/256px/Radial Outline 256px - 1x.png
+  artifactKey: Guid(5899483649d5aef43bbd15c0945b2ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/256px/Radial Outline 256px - 1x.png using Guid(5899483649d5aef43bbd15c0945b2ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ece3557eeef990dc3a6c2050a82395f5') in 0.0282875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010751 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/256px/Radial Outline 256px - 5x.png
+  artifactKey: Guid(5a4ec0c9f6e1066409609dd9249fcba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/256px/Radial Outline 256px - 5x.png using Guid(5a4ec0c9f6e1066409609dd9249fcba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4e80c7cf4c2406a264a1966f7cba882c') in 0.0248796 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092836 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/512px/Radial Outline 512px - 6x.png
+  artifactKey: Guid(994f9969403770242aef5a235e6edb37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/512px/Radial Outline 512px - 6x.png using Guid(994f9969403770242aef5a235e6edb37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '32d6273460a56df19399aed1eaadde56') in 0.0313549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009801 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/512px/Radial Outline 512px - 10x.png
+  artifactKey: Guid(459e46a077b8afa4d93425018fc7b3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/512px/Radial Outline 512px - 10x.png using Guid(459e46a077b8afa4d93425018fc7b3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1badbc6af50fcc202874ecd688d2ea6') in 0.0256215 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.754931 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/32px/Rounded Outline 32px - 7x.png
+  artifactKey: Guid(2ae02f309e37a7b468a607a66bbc4e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/32px/Rounded Outline 32px - 7x.png using Guid(2ae02f309e37a7b468a607a66bbc4e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2cb2025e2ab1417144e57acecf214807') in 0.0283999 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -1,0 +1,428 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.34f1 (5ab2d9ed9190) revision 5944025'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'ru' Physical Memory: 32472 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.34f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Works/Unity/Welding/Welding/Welding PC
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+64607
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: D:/Works/Unity/Welding/Welding/Welding PC
+D:/Works/Unity/Welding/Welding/Welding PC
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [53368]  Target information:
+
+Player connection [53368]  * "[IP] 192.168.1.109 [Port] 0 [Flags] 2 [Guid] 1033455455 [EditorId] 1033455455 [Version] 1048832 [Id] WindowsEditor(7,Coder) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [53368] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [53368] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 6.00 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.34f1 (5ab2d9ed9190)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Works/Unity/Welding/Welding/Welding PC/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   32.0.15.7283
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56972
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.005129 seconds.
+- Loaded All Assemblies, in  0.406 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 307 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.680 seconds
+Domain Reload Profiling: 1084ms
+	BeginReloadAssembly (135ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (167ms)
+		LoadAssemblies (133ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (163ms)
+			TypeCache.Refresh (161ms)
+				TypeCache.ScanAssembly (148ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (680ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (633ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (397ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (54ms)
+			ProcessInitializeOnLoadAttributes (119ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.818 seconds
+Refreshing native plugins compatible for Editor in 3.17 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 4.34 ms, found 4 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.780 seconds
+Domain Reload Profiling: 1596ms
+	BeginReloadAssembly (170ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (554ms)
+		LoadAssemblies (362ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (290ms)
+			TypeCache.Refresh (206ms)
+				TypeCache.ScanAssembly (184ms)
+			BuildScriptInfoCaches (68ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (781ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (605ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (98ms)
+			ProcessInitializeOnLoadAttributes (404ms)
+			ProcessInitializeOnLoadMethodAttributes (82ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 5.48 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 218 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6362 unused Assets / (5.1 MB). Loaded Objects now: 7034.
+Memory consumption went from 177.5 MB to 172.4 MB.
+Total: 14.270100 ms (FindLiveObjects: 1.052500 ms CreateObjectMapping: 0.989900 ms MarkObjects: 8.109000 ms  DeleteObjects: 4.116600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 648614.723254 seconds.
+  path: Assets/Modern UI Pack/Textures/Shadow/Horizontal Shadow.png
+  artifactKey: Guid(390f1c7c5c2f9714d8458c01651acdcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Shadow/Horizontal Shadow.png using Guid(390f1c7c5c2f9714d8458c01651acdcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ce07e6255cee556ec45f0cece876d10a') in 0.1482862 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.635433 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Device/Lightbulb.png
+  artifactKey: Guid(6ca804909faea644aa355ec5c5a9e1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Device/Lightbulb.png using Guid(6ca804909faea644aa355ec5c5a9e1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '42c8acb123c91f2572859312748569b9') in 0.0382092 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051491 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/System/Lock.png
+  artifactKey: Guid(cacaf83c4f5642244a1e47f13500c4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/System/Lock.png using Guid(cacaf83c4f5642244a1e47f13500c4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a8714ea9ce7792feb2e95a670721eee') in 0.0251197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Map/Map.png
+  artifactKey: Guid(4b307c9f1eae5644a865e61b227b969e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Map/Map.png using Guid(4b307c9f1eae5644a865e61b227b969e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd34d109cd0938ffd5513a046e4238420') in 0.0296464 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Communication & Social/Message.png
+  artifactKey: Guid(f4bd70bd7d1d65a448438dc918ac4cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Communication & Social/Message.png using Guid(f4bd70bd7d1d65a448438dc918ac4cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '35b9317c68bfa280f04f7c7b090fbec8') in 0.024005 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/UI Elements/Movable Window.png
+  artifactKey: Guid(19d7c542909d24440b53be37889f8f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/UI Elements/Movable Window.png using Guid(19d7c542909d24440b53be37889f8f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8930aa96ab94b609b5ac97d7276f049a') in 0.0262606 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/Media/Music Filled.png
+  artifactKey: Guid(bfd5639b41fe02b4db9a0d5ce7479f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/Media/Music Filled.png using Guid(bfd5639b41fe02b4db9a0d5ce7479f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1d2c9b2c99ba1d960e1709ed083731a') in 0.0253929 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053428 seconds.
+  path: Assets/Modern UI Pack/Textures/Icon/UI Elements/Progress Bar.png
+  artifactKey: Guid(692a50acc1b51e747b22a0a765cf262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Icon/UI Elements/Progress Bar.png using Guid(692a50acc1b51e747b22a0a765cf262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '150ba3cb10b285bab92cdc4fe94a33fa') in 0.0267621 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.318066 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/64px/Radial Filled 64px.png
+  artifactKey: Guid(d58c56a572b8c424b977292054ceb745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/64px/Radial Filled 64px.png using Guid(d58c56a572b8c424b977292054ceb745) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1fa278e984707919dc1b4d64070c764a') in 0.0300234 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/512px/Radial Filled 512px.png
+  artifactKey: Guid(ec33b29f67465db45aa8df22663e89f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/512px/Radial Filled 512px.png using Guid(ec33b29f67465db45aa8df22663e89f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db0f78fdfae5e2afdc992ac4aba6eb94') in 0.0281742 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.756260 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Outline 128px - 3x.png
+  artifactKey: Guid(fcadf08db4ab4e745ad615820a87889b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Outline 128px - 3x.png using Guid(fcadf08db4ab4e745ad615820a87889b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ddc877e72ce00782a70d68bd4b35abed') in 0.0261905 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Outline 128px - 7x.png
+  artifactKey: Guid(e391401015a953e408ae1dc8ed8a2de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Outline 128px - 7x.png using Guid(e391401015a953e408ae1dc8ed8a2de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c7a2d10d8e7da6ef271708b6c28d5217') in 0.0303774 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005173 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Outline 128px - 10x.png
+  artifactKey: Guid(d23560fc197451a469b72256e288acbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/128px/Radial Outline 128px - 10x.png using Guid(d23560fc197451a469b72256e288acbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b56659da933571e7bbeb192c1c4b3535') in 0.0241924 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013041 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/256px/Radial Outline 256px - 4x.png
+  artifactKey: Guid(d03863d699f2a3e4ab3cf64663a5447f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/256px/Radial Outline 256px - 4x.png using Guid(d03863d699f2a3e4ab3cf64663a5447f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c6cb41110670a963459b31130245de91') in 0.0259675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086419 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/512px/Radial Outline 512px - 5x.png
+  artifactKey: Guid(1b43bc290ba48b5468a23b479bea3c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/512px/Radial Outline 512px - 5x.png using Guid(1b43bc290ba48b5468a23b479bea3c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd034f58b593dbf48f6eaa7d10965158b') in 0.0260253 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/512px/Radial Outline 512px - 9x.png
+  artifactKey: Guid(fa0ae590121864a40982c48d76373ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/512px/Radial Outline 512px - 9x.png using Guid(fa0ae590121864a40982c48d76373ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9a24a8bf8d589c4d5585236751a980ce') in 0.028908 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Radial/1024px/Radial Outline 1024px - 2x.png
+  artifactKey: Guid(954be6945f3076d4ead9deff24827fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Radial/1024px/Radial Outline 1024px - 2x.png using Guid(954be6945f3076d4ead9deff24827fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ec84806a652f2c4d2594da382b2c283') in 0.0269427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.719454 seconds.
+  path: Assets/Modern UI Pack/Textures/Border/Rounded/32px/Rounded Outline 32px - 6x.png
+  artifactKey: Guid(19e0bce67751785438b5135a43190ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern UI Pack/Textures/Border/Rounded/32px/Rounded Outline 32px - 6x.png using Guid(19e0bce67751785438b5135a43190ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b0d13c8a977e1e66a41b2e8f1450bbd') in 0.0279579 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.705912 seconds.
+  path: Assets/Photo/Splash.png
+  artifactKey: Guid(5b3edd640d6c4fe49b37ddea94369e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photo/Splash.png using Guid(5b3edd640d6c4fe49b37ddea94369e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b5259d9e5c6079e34bb928d98464600c') in 0.0307249 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.982778 seconds.
+  path: Assets/Photo/Splash.png
+  artifactKey: Guid(5b3edd640d6c4fe49b37ddea94369e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photo/Splash.png using Guid(5b3edd640d6c4fe49b37ddea94369e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '864330e5cf6a4cdb91f2f3566f728d18') in 0.0286714 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly name 'Google.IOSResolver' does not match file name 'Google.IOSResolver_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.VersionHandlerImpl' does not match file name 'Google.VersionHandlerImpl_v1.2.135.0'
+Assembly 'Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll' will not be loaded due to errors:
+Assembly name 'Google.JarResolver' does not match file name 'Google.JarResolver_v1.2.135.0'
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.797 seconds
+Refreshing native plugins compatible for Editor in 4.41 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.861 seconds
+Domain Reload Profiling: 1660ms
+	BeginReloadAssembly (207ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (514ms)
+		LoadAssemblies (397ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (222ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (197ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (861ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (630ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (448ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 6.64 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6358 unused Assets / (4.9 MB). Loaded Objects now: 7062.
+Memory consumption went from 161.8 MB to 157.0 MB.
+Total: 12.417900 ms (FindLiveObjects: 0.757500 ms CreateObjectMapping: 1.025000 ms MarkObjects: 6.732000 ms  DeleteObjects: 3.901100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 368.177890 seconds.
+  path: Assets/Resources/users.json
+  artifactKey: Guid(71e55cac0326cf847a5457a8704c4e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/users.json using Guid(71e55cac0326cf847a5457a8704c4e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2aab26137a58768c3b07471f74043a99') in 0.0397484 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+

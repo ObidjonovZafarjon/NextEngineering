@@ -1,0 +1,20 @@
+# Unity auto-generated folders (eng muhimi!)
+/[Ll]ibrary/
+/[Tt]emp/
+/[O]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Aa]pp[Ll]ast/
+
+# Visual Studio / Rider
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS files
+.DS_Store
+Thumbs.db

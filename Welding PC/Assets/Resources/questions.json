@@ -1,0 +1,364 @@
+{
+    "Items": [
+        {
+            "question": "Himoya gaz ostida dastaki payvandlashda asosiy himoya vositasi nima?",
+            "correctAnswer": "Gaz oqimi",
+            "wrongAnswers": [
+                "Elektr tok",
+                "Elektrod qoplamasi",
+                "Suv oqimi"
+            ]
+        },
+        {
+            "question": "Payvandlashda ko‘p qo‘llaniladigan himoya gazi qaysi?",
+            "correctAnswer": "Karbonat angidrid (CO₂)",
+            "wrongAnswers": [
+                "Azot",
+                "Kislorod",
+                "Amoniy"
+            ]
+        },
+        {
+            "question": "Argon gazining asosiy xususiyati nimada?",
+            "correctAnswer": "Kimyoviy inertligi",
+            "wrongAnswers": [
+                "Juda yonuvchanligi",
+                "Suvda eruvchanligi",
+                "Issiqlik chiqarishi"
+            ]
+        },
+        {
+            "question": "Himoya gaz ostida payvandlash jarayonida yoyni barqarorlashtirish uchun nima zarur?",
+            "correctAnswer": "To‘g‘ri tok manbai",
+            "wrongAnswers": [
+                "Batareya",
+                "Gaz ballonini qizdirish",
+                "Magnit qo‘llash"
+            ]
+        },
+        {
+            "question": "Payvandlashda qo‘llaniladigan sim materiali nima deb ataladi?",
+            "correctAnswer": "Elektrod sim",
+            "wrongAnswers": [
+                "Mis sim",
+                "Tok simi",
+                "Izolyator sim"
+            ]
+        },
+        {
+            "question": "Himoya gaz ostida payvandlashning asosiy afzalligi?",
+            "correctAnswer": "Chok sifatining yuqoriligi",
+            "wrongAnswers": [
+                "Gaz sarfi kamayishi",
+                "Metallni sovitishi",
+                "Elektrod sarfi oshishi"
+            ]
+        },
+        {
+            "question": "Karbonat angidrid gazida payvandlashning kamchiligi?",
+            "correctAnswer": "Chokda ko‘p shlak hosil bo‘lishi",
+            "wrongAnswers": [
+                "Gaz tez yonishi",
+                "Chok issiqlikni ushlamasligi",
+                "Elektrod kuyib ketishi"
+            ]
+        },
+        {
+            "question": "MIG payvandlashda ishlatiladigan gaz aralashmasi?",
+            "correctAnswer": "Argon + Kislorod",
+            "wrongAnswers": [
+                "Kislorod + Azot",
+                "Azot + Suv bug‘i",
+                "Vodород + Heliy"
+            ]
+        },
+        {
+            "question": "Himoya gaz ostida payvandlashda tok kuchi qaysi birlikda o‘lchanadi?",
+            "correctAnswer": "Amper",
+            "wrongAnswers": [
+                "Volt",
+                "Om",
+                "Vatt"
+            ]
+        },
+        {
+            "question": "Himoya gaz ostida yoyning yonishi nimani ta’minlaydi?",
+            "correctAnswer": "Metallning erishi va birlashishi",
+            "wrongAnswers": [
+                "Gazning yonishi",
+                "Sovutish",
+                "Elektr izolyatsiyasi"
+            ]
+        },
+        {
+            "question": "Argon gazida payvandlash qaysi metallar uchun qulay?",
+            "correctAnswer": "Rangli metallar",
+            "wrongAnswers": [
+                "Chugun",
+                "Po‘lat",
+                "Qotishmalar"
+            ]
+        },
+        {
+            "question": "Gaz oqimi past bo‘lsa natija qanday bo‘ladi?",
+            "correctAnswer": "Chok sifatsiz bo‘ladi",
+            "wrongAnswers": [
+                "Chok mustahkam bo‘ladi",
+                "Metall qizimaydi",
+                "Yoy uzilmaydi"
+            ]
+        },
+        {
+            "question": "Himoya gaz balonlari qaysi rang bilan belgilanadi?",
+            "correctAnswer": "Yashil",
+            "wrongAnswers": [
+                "Qizil",
+                "Sariq",
+                "Ko‘k"
+            ]
+        },
+        {
+            "question": "Payvandlashda tok kuchi ortsa nima yuz beradi?",
+            "correctAnswer": "Chuqurroq chok hosil bo‘ladi",
+            "wrongAnswers": [
+                "Chok sayoz bo‘ladi",
+                "Yoy o‘chadi",
+                "Gaz chiqishi to‘xtaydi"
+            ]
+        },
+        {
+            "question": "Gaz balonida bosimni ko‘rsatadigan asbob?",
+            "correctAnswer": "Manometr",
+            "wrongAnswers": [
+                "Voltmetr",
+                "Ampermetr",
+                "Termometr"
+            ]
+        },
+        {
+            "question": "Payvandlashda qo‘llaniladigan himoya vositalari qaysilar?",
+            "correctAnswer": "Niqob va qo‘lqop",
+            "wrongAnswers": [
+                "Sochiq",
+                "Shisha ko‘zoynak",
+                "Shlyapa"
+            ]
+        },
+        {
+            "question": "Gaz ostida payvandlash usuli qanday qisqartma bilan yuritiladi?",
+            "correctAnswer": "MIG/MAG",
+            "wrongAnswers": [
+                "TIG",
+                "SMAW",
+                "SAW"
+            ]
+        },
+        {
+            "question": "Gaz sarfi juda yuqori bo‘lsa nima yuz beradi?",
+            "correctAnswer": "Gaz isrofi",
+            "wrongAnswers": [
+                "Chok yaxshi chiqadi",
+                "Metall soviydi",
+                "Yoy kuchayadi"
+            ]
+        },
+        {
+            "question": "TIG payvandlashning farqi nimada?",
+            "correctAnswer": "Volfram elektrodi qo‘llaniladi",
+            "wrongAnswers": [
+                "Gaz sarfi yo‘q",
+                "Faqat CO₂ ishlatiladi",
+                "Elektrod eriydi"
+            ]
+        },
+        {
+            "question": "CO2 gazida payvandlash asosan qaysi metallar uchun qo‘llaniladi?",
+            "correctAnswer": "Qora metallar",
+            "wrongAnswers": [
+                "Oltin",
+                "Kumush",
+                "Mis"
+            ]
+        },
+        {
+            "question": "Payvandlashda himoya gazining asosiy vazifasi?",
+            "correctAnswer": "Metallni oksidlanishdan saqlash",
+            "wrongAnswers": [
+                "Yoyni uzaytirish",
+                "Tokni oshirish",
+                "Metallni sovitish"
+            ]
+        },
+        {
+            "question": "Argon va CO2 aralashmasi nimaga xizmat qiladi?",
+            "correctAnswer": "Yoyni barqarorlashtiradi",
+            "wrongAnswers": [
+                "Metallni erimaydi",
+                "Gazni sovitadi",
+                "Tokni kamaytiradi"
+            ]
+        },
+        {
+            "question": "Himoya gaz oqimi odatda qanday o‘lchanadi?",
+            "correctAnswer": "L/min",
+            "wrongAnswers": [
+                "Volt",
+                "Om",
+                "Kg"
+            ]
+        },
+        {
+            "question": "Yoy uzunligi qanchalik bo‘lsa, chok shunchalik...",
+            "correctAnswer": "Sifatli chiqadi",
+            "wrongAnswers": [
+                "Yupqa bo‘ladi",
+                "Issiq bo‘ladi",
+                "Yonadi"
+            ]
+        },
+        {
+            "question": "Gaz ostida payvandlashda qaysi elektr toki ko‘p qo‘llaniladi?",
+            "correctAnswer": "Doimiy tok",
+            "wrongAnswers": [
+                "O‘zgaruvchan tok",
+                "Impuls tok",
+                "Statik tok"
+            ]
+        },
+        {
+            "question": "Elektrod simni uzluksiz beruvchi mexanizm nima deyiladi?",
+            "correctAnswer": "Podacha mexanizmi",
+            "wrongAnswers": [
+                "Ventilyator",
+                "Gaz ballon",
+                "Termostat"
+            ]
+        },
+        {
+            "question": "Payvandlash vaqtida qo‘shimcha metall qayerdan keladi?",
+            "correctAnswer": "Sim elektroddan",
+            "wrongAnswers": [
+                "Gazdan",
+                "Tok manbaidan",
+                "Shlakdan"
+            ]
+        },
+        {
+            "question": "Chok yuzasidagi shlakni nima qilish kerak?",
+            "correctAnswer": "Tozalash",
+            "wrongAnswers": [
+                "Qoldirish",
+                "Qo‘shimcha gaz berish",
+                "Sovutish"
+            ]
+        },
+        {
+            "question": "TIG payvandlashning afzalligi?",
+            "correctAnswer": "Chok sifati yuqori",
+            "wrongAnswers": [
+                "Gaz sarfi kam",
+                "Oson bajariladi",
+                "Arzon"
+            ]
+        },
+        {
+            "question": "Gaz balonlarini qanday saqlash kerak?",
+            "correctAnswer": "Vertikal holda",
+            "wrongAnswers": [
+                "Yotqizib",
+                "Issiq joyda",
+                "Namlikda"
+            ]
+        },
+        {
+            "question": "Payvandlashda niqobning asosiy vazifasi?",
+            "correctAnswer": "Ko‘zni himoya qilish",
+            "wrongAnswers": [
+                "Gazni ushlash",
+                "Metallni sovutish",
+                "Yoyni barqarorlashtirish"
+            ]
+        },
+        {
+            "question": "CO2 gazining afzalligi?",
+            "correctAnswer": "Arzonligi",
+            "wrongAnswers": [
+                "Engilligi",
+                "Yonuvchanligi",
+                "Sovutishi"
+            ]
+        },
+        {
+            "question": "Argon gazining kamchiligi?",
+            "correctAnswer": "Qimmatligi",
+            "wrongAnswers": [
+                "Yonishi",
+                "Shlak hosil qilishi",
+                "Suyuqligi"
+            ]
+        },
+        {
+            "question": "Gaz oqimini boshqaruvchi qurilma?",
+            "correctAnswer": "Reduktor",
+            "wrongAnswers": [
+                "Generator",
+                "Transformator",
+                "Stabilizator"
+            ]
+        },
+        {
+            "question": "Yoyni yoqish usuli?",
+            "correctAnswer": "Qisqa tutashuv orqali",
+            "wrongAnswers": [
+                "Gazni yoqish",
+                "Metallni urish",
+                "Tokni o‘chirish"
+            ]
+        },
+        {
+            "question": "Elektrod sim diametri nimaga bog‘liq?",
+            "correctAnswer": "Metall qalinligiga",
+            "wrongAnswers": [
+                "Gaz turiga",
+                "Yoy uzunligiga",
+                "Qo‘lqop turiga"
+            ]
+        },
+        {
+            "question": "Gaz ostida payvandlashning sanoatdagi qo‘llanish sohasi?",
+            "correctAnswer": "Mashinasozlik",
+            "wrongAnswers": [
+                "Qishloq xo‘jaligi",
+                "Kimyo",
+                "Oshxona texnikasi"
+            ]
+        },
+        {
+            "question": "Payvand chokining sifatini nima belgilaydi?",
+            "correctAnswer": "Yoy barqarorligi va gaz himoyasi",
+            "wrongAnswers": [
+                "Gaz rangi",
+                "Tok kuchi doimiymi",
+                "Balon hajmi"
+            ]
+        },
+        {
+            "question": "Gaz ostida payvandlashda elektrodsiz usul qaysi?",
+            "correctAnswer": "TIG",
+            "wrongAnswers": [
+                "MIG",
+                "MAG",
+                "CO₂"
+            ]
+        },
+        {
+            "question": "Gaz ostida payvandlashda ishlatiladigan himoya vositasi qaysi?",
+            "correctAnswer": "Gaz ballon",
+            "wrongAnswers": [
+                "Ventilyator",
+                "Kislorod apparati",
+                "Konditsioner"
+            ]
+        }
+    ]
+}

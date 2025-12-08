@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Works\\Unity\\Welding\\Welding PC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|d:\\works\\unity\\welding\\welding pc\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|d:\\works\\unity\\welding\\welding pc\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|D:\\Works\\Unity\\Welding\\Welding PC\\assets\\scripts\\weldingtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weldingtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|D:\\Works\\Unity\\Welding\\Welding PC\\assets\\scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|D:\\Works\\Unity\\Welding\\Welding PC\\assets\\scripts\\registryscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\registryscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|D:\\Works\\Unity\\Welding\\Welding PC\\assets\\modern ui pack\\scripts\\button\\buttonmanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|solutionrelative:assets\\modern ui pack\\scripts\\button\\buttonmanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|D:\\Works\\Unity\\Welding\\Welding PC\\assets\\scripts\\triggersceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C601A56-C528-E999-146E-0E6E02E9CB4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggersceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\UIManager.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:48:32.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAANEBAAAAAAAAAAAuwNEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:20:03.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeldingTrigger.cs",
+              "DocumentMoniker": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\WeldingTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeldingTrigger.cs",
+              "ToolTip": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\WeldingTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeldingTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:18:03.964Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TriggerSceneLoader.cs",
+              "DocumentMoniker": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\TriggerSceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerSceneLoader.cs",
+              "ToolTip": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\TriggerSceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TriggerSceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:28:41.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuizManager.cs",
+              "ToolTip": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuizManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:51:10.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ButtonManagerEditor.cs",
+              "DocumentMoniker": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Modern UI Pack\\Scripts\\Button\\ButtonManagerEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Modern UI Pack\\Scripts\\Button\\ButtonManagerEditor.cs",
+              "ToolTip": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Modern UI Pack\\Scripts\\Button\\ButtonManagerEditor.cs",
+              "RelativeToolTip": "Assets\\Modern UI Pack\\Scripts\\Button\\ButtonManagerEditor.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAwGwBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:00:13.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistryScene.cs",
+              "DocumentMoniker": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\RegistryScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RegistryScene.cs",
+              "ToolTip": "D:\\Works\\Unity\\Welding\\Welding PC\\Assets\\Scripts\\RegistryScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RegistryScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:56:24.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

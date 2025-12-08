@@ -1,0 +1,817 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 69
+
+newmtl concrete_c
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump concrete_c_bump.png
+map_Kd concrete_c_diffuse.png
+
+newmtl concrete_d_bottomtrim
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump concrete_d_bottomtrim_bump.png
+map_Kd concrete_d_bottomtrim.png
+
+newmtl concrete_g_moldybrick
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump concrete_g_moldybrick_bump.png
+map_Kd concrete_g_moldybrick.png
+
+newmtl gun_rack
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd gun_rack.png
+
+newmtl hb_metal_painted_red
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd hb_metal_red.png
+
+newmtl hb_metal_painted_red_unwrap
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd hb_metal_red_unwrap.png
+
+newmtl hb_metal_pipe_a_rusty
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd hb_metal_pipe_a_rusty.png
+
+newmtl hb_pipe_cap_01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump hb_pipe_cap_01_bump.png
+map_Kd hb_pipe_cap_01.png
+
+newmtl lb_concrete_subwall
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump lb_concrete_subwall_bump.png
+map_Kd lb_concrete_subwall_big.png
+
+newmtl light_sequence_red_a_illum
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd light_sequence_red_a_illum.png
+map_Ke light_sequence_red_a_illum.png
+
+newmtl metal_b_trim
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_b_trim_bump.png
+map_Kd metal_b_trim.png
+
+newmtl metal_c_walkway_trim
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_c_walkway_trim_bump.png
+map_Kd metal_c_walkway_trim.png
+
+newmtl metal_cable
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd metal_cable.png
+
+newmtl metal_coorigated_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_coorigated_a_bump.png
+map_Kd metal_coorigated_a.png
+
+newmtl metal_d_painted_yellow
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_d_painted_yellow_bump.png
+map_Kd metal_d_painted_yellow.png
+
+newmtl metal_doodad_a_illum_cool
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_doodad_a_bump.png
+map_Kd metal_doodad_a.png
+map_Ke metal_doodad_a_illum.png
+
+newmtl metal_e_factory_wall_support_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_e_factory_wall_support_a_bump.png
+map_Kd metal_e_factory_wall_support_a.png
+
+newmtl metal_e_factory_wall_vertstripe_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_e_factory_wall_vertstripe_a_bump.png
+map_Kd metal_e_factory_wall_vertstripe_a.png
+
+newmtl metal_f_techstripe
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_f_techstripe_bump.png
+map_Kd metal_f_techstripe.png
+
+newmtl metal_factory_outerpanel_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_factory_outerpanel_a_bump.png
+map_Kd metal_factory_outerpanel_a.png
+
+newmtl metal_factory_outerpanel_d
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_factory_outerpanel_d_bump.png
+map_Kd metal_factory_outerpanel_d.png
+
+newmtl metal_factory_outerpanel_g
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_factory_outerpanel_g_bump.png
+map_Kd metal_factory_outerpanel_g.png
+
+newmtl metal_factory_outerpanel_g_crudcorner
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd metal_factory_outerpanel_g_crudcorner.png
+
+newmtl metal_factory_outerpanel_g_yellow
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_factory_outerpanel_g_bump.png
+map_Kd metal_factory_outerpanel_g_yellow.png
+
+newmtl metal_factory_outerpanel_i
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_factory_outerpanel_i_bump.png
+map_Kd metal_factory_outerpanel_i.png
+
+newmtl metal_floorplate_a_01_yellowpaint
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd metal_floorplate_a_01_yellow.png
+
+newmtl metal_floortrim_01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_floortrim_01_bump.png
+map_Kd metal_floortrim_01.png
+
+newmtl metal_g_greystripes
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd metal_g_greystripes.png
+
+newmtl metal_g_techstripe
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.050000
+d 1.000000
+illum 1
+map_Bump metal_g_techstripe_bump.png
+map_Kd metal_g_techstripe.png
+
+newmtl metal_g_yellowstripes
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_g_yellowstripes_bump.png
+map_Kd metal_g_yellowstripes.png
+
+newmtl metal_h_boltpattern
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.150000
+d 1.000000
+illum 1
+map_Bump metal_h_boltpattern_bump.png
+map_Kd metal_h_boltpattern.png
+
+newmtl metal_i_generic_cruddy_red
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_i_generic_cruddy_bump.png
+map_Kd metal_i_generic_cruddy.png
+
+newmtl metal_j_slatted_door
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_j_slatted_door_bump.png
+map_Kd metal_j_slatted_door.png
+
+newmtl metal_j_techstripe
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_j_techstripe_bump.png
+map_Kd metal_j_techstripe.png
+
+newmtl metal_k_wireholder_inset_overframe
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.050000
+d 1.000000
+illum 1
+map_Bump metal_k_wireholder_inset_overframe_bump.png
+map_Kd metal_k_wireholder_inset_overframe.png
+map_d metal_k_wireholder_inset_overframe_alphatest.png
+
+newmtl metal_l_generic_boltedge_red
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.050000
+d 1.000000
+illum 1
+map_Bump metal_l_generic_boltedge_bump.png
+map_Kd metal_l_generic_boltedge.png
+
+newmtl metal_out_fence
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd fence_dif.png
+map_d fence_dif.png
+
+newmtl metal_panel_human_tech_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.050000
+d 1.000000
+illum 1
+map_Bump metal_panel_human_tech_a_bump.png
+map_Kd metal_panel_human_tech_a.png
+map_Ke metal_panel_human_tech_a_illum.png
+
+newmtl metal_red_streak_topcrud_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd metal_red_streak_topcrud_a.png
+
+newmtl metal_rustbucket_b
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd metal_rustbucket_b.png
+
+newmtl metal_small_door_unwrap
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_small_door_unwrap_bump.png
+map_Kd metal_small_door_unwrap.png
+
+newmtl metal_strip_k
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_strip_k_bump.png
+map_Kd metal_strip_k.png
+
+newmtl metal_tech_b
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_tech_b_bump.png
+map_Kd metal_tech_b.png
+
+newmtl metal_trim_c
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_trim_c_bump.png
+map_Kd metal_trim_c.png
+
+newmtl metal_trim_c_hazard
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd metal_trim_c_hazard.png
+
+newmtl metal_trim_d
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_trim_d_bump.png
+map_Kd metal_trim_d.png
+
+newmtl metal_warehouse_supercrud_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.050000
+d 1.000000
+illum 1
+map_Kd metal_warehouse_supercrud_a.png
+
+newmtl out_big_pipe
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump out_big_pipe_main_bump.png
+map_Kd out_big_pipe_main_diff.png
+
+newmtl out_girder_trim
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.050000
+d 1.000000
+illum 1
+map_Bump out_big_girder_support_trim_bump.png
+map_Kd out_big_girder_support_trim_diff.png
+
+newmtl out_great_big_vent
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.050000
+d 1.000000
+illum 1
+map_Bump out_great_big_vent_box_bump.png
+map_Kd out_great_big_vent_box_diff.png
+
+newmtl out_pipes_trim
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.050000
+d 1.000000
+illum 1
+map_Bump out_conc_trim_bump.png
+map_Kd out_conc_trim_diff.png
+
+newmtl out_rail_trim
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.050000
+d 1.000000
+illum 1
+map_Bump out_rail_trim_bump.png
+map_Kd out_rail_trim_diff.png
+
+newmtl out_voi_corrug
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump out_voi_corrug_bump.png
+map_Kd out_voi_corrug_diff.png
+
+newmtl rusted_industrial_grating
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd industrial_grating_detail.png
+
+newmtl sign_voi_factory_south_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd sign_voi_factory_south_a.png
+
+newmtl ware_crane
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump ware_crane_bump.png
+map_Kd ware_crane.png
+
+newmtl ware_crane_body
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.050000
+d 1.000000
+illum 1
+map_Bump ware_crane_body_bump.png
+map_Kd ware_crane_body.png
+
+newmtl ware_crane_mainrail
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump ware_crane_mainrail_bump.png
+map_Kd ware_crane_mainrail.png
+
+newmtl ware_crane_rail
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump ware_crane_rail_bump.png
+map_Kd ware_crane_rail.png
+
+newmtl ware_glass_crudglass
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd ware_glass_crudglass.png
+
+newmtl ware_glass_overhead_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump glass_overhead_broken_a_bump.png
+map_Kd glass_overhead_broken_a.png
+
+newmtl ware_grate_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd ware_grate_a.png
+map_d grate_a_opacity.png
+
+newmtl ware_metal_floorplate_01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_floorplate_b_01_bump.png
+map_Kd metal_floorplate_b_01.png
+
+newmtl ware_metal_floorplate_02
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump metal_floorplate_a_01_bump.png
+map_Kd ware_metal_floorplate_02.png
+
+newmtl ware_metal_painted_yellow
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd ware_metal_painted_yellow.png
+
+newmtl ware_roof
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd ware_roof.png
+
+newmtl ware_wall_beam
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump ware_wall_beam_bump.png
+map_Kd ware_wall_beam.png
+
+newmtl warehouse_custom_backwall_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump warehouse_custom_backwall_a_bump.png
+map_Kd warehouse_custom_backwall_a.png
+
+newmtl zan_grate_a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Bump grate_a_bump.png
+map_Kd grate_a_diffuse.png
+map_d grate_a_opacity.png
